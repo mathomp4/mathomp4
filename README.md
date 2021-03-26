@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! 👋
 
 <!--
 **mathomp4/mathomp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software developer who works for [SSAI](https://www.ssaihq.com/) at the [GMAO (Global Modeling and Assimilation Office)](https://gmao.gsfc.nasa.gov/) at [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/). 
+
+I mostly work on the [GEOS ESM (Goddard Earth Observing System Earth Science Model](https://gmao.gsfc.nasa.gov/GEOS_systems/) which is now managed here on GitHub. The code is at the [GEOS-ESM](https://github.com/GEOS-ESM/) organization. What once was a large monolithic code base is now separated into many smaller repositories managed by [mepo](https://github.com/GEOS-ESM/mepo/), a GMAO-built multi-repository tool.
+
+I mainly code in Fortran and have tried things like Code Golf where I am [middle of the pack](https://code.golf/scores/all-holes/fortran/bytes) at the moment. 😄
